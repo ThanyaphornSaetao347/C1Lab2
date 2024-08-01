@@ -63,7 +63,11 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Projectile2.cs" />
+    <Compile Include="Assets/Scripts/FireProjectile2.cs" />
     <Compile Include="Assets/Scripts/Projectile.cs" />
+    <Compile Include="Assets/Scripts/FireProjectile1.cs" />
+    <Compile Include="Assets/Scripts/terretControl1.cs" />
     <Compile Include="Assets/Scripts/TurretControl.cs" />
     <Compile Include="Assets/Scripts/Projectile1.cs" />
     <Compile Include="Assets/Scripts/Ring.cs" />

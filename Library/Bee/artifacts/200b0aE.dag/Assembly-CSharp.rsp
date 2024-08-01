@@ -352,9 +352,13 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/FireProjectile.cs"
+"Assets/Scripts/FireProjectile1.cs"
+"Assets/Scripts/FireProjectile2.cs"
 "Assets/Scripts/Projectile.cs"
 "Assets/Scripts/Projectile1.cs"
+"Assets/Scripts/Projectile2.cs"
 "Assets/Scripts/Ring.cs"
+"Assets/Scripts/terretControl1.cs"
 "Assets/Scripts/TurretControl.cs"
 -langversion:9.0
 /deterministic
